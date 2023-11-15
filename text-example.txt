@@ -1,0 +1,12 @@
+Libro: rmewioerwmoi
+autore: jerwio
+editore: jrewoi
+numero pagine: 43
+ ---------------
+
+Libro: jrewio
+autore: jrewio
+editore: jrewio
+numero pagine: 54
+ ---------------
+
